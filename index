@@ -1,0 +1,13 @@
+<html>
+<head>
+<title>Wybierz rok akademickiy</title>
+<link rel="stylesheet" href="wyklady.css">
+<meta charset="UTF-8">
+</head>
+<body>
+
+<a href="1-1.html">Rok I Semestr I</a><br>
+<a href="1-2.html">Rok I Semestr II</a><br>
+
+</body>
+</html>
