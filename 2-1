@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>Wykłady</title>
+<link rel="stylesheet" href="wyklady.css">
+<meta charset="UTF-8">
+</head>
+<body>
+<div id="youtube">
+Wykłady:<br>
+<a href="instalacje-ele.html">Instalacje elektryczne</a><br>
+
+</div>
+</body>
+</html>
